@@ -96,14 +96,22 @@
 
             <div class="container view-selector d-flex justify-content-center my-4" id="changeView">
                 <div class="mx-2">
-                    <button type="button" onclick="mosaicview()">
+                    <input type="radio" name="view" id="mosaic_button" onclick="mosaicview()" checked />
+                    <label for="mosaic_button">
+
                         <i class="fa-solid fa-table-cells"></i>
-                    </button>
+
+                    </label>
+
                 </div>
                 <div class="mx-2">
-                    <button type="button" onclick="oneafterone()">
+                    <input type="radio" name="view" id="oneafterone_button" onclick="oneafterone()" />
+                    <label for="oneafterone_button">
+
                         <i class="fa-solid fa-square"></i>
-                    </button>
+
+                    </label>
+
                 </div>
 
             </div>

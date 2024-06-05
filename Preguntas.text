@@ -1,19 +1,20 @@
 1. Se puede hacer diferente sin el uso de JavaScript:
     - En vez de hacer dos divs con diferente display, hacer uno que cambie entre displays con diferentes normas.
+        - No se cómo hacerlo, necesito ayuda =)
 
 2. Cuando utilizo la pseudoclase :focus consigo cambiar el color, pero si clico en cualquier otro sitio, me vuelve a cambiar el color a "deseleccionado":
-    - Puedes utilizar JS con onclick o utilizar <inpu type:"radyo">
+    - Puedes utilizar JS con onclick o utilizar <inpu type:"radio">
+        - No se cómo hacerlo con el input.
 
 3. No se muy bien si el ancho del contenedor padre tiene que ocupar toda la pantalla o no:
-    - Respuesta.
+    - Da un poco igual en realidad. Se podría utilizar un max width.
 
 4. Se puede hacer diferente??:
-    - Respuesta
+    - Siempre, pero este está bien.
 
 5. Al hacer la pantalla pequeña, por ejemplo en iPhone 14 Pro Max (Que no es tan pequeña para ser un móvil) los botones de Create a new Post y el de al lado se quedan demasiado grandes.
-    - Respuesta
+    - Solucionado, hay que poner diferentes tipos de columnas según alcance los breakpoints.
 
 6. Cuando haces la pantalla pequeña, los conteiners de las fotos quedan demaisado pequeños, quiero que cuando llegue un determinado tipo de pantalla se conviertan con container-fluid.
-    - Respuesta
+    - Solucionado, hay que poner diferentes tipos de columnas según alcance los breakpoints.
 
-Aplicar máximo de anchura.
