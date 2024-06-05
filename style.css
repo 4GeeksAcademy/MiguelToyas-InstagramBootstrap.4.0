@@ -38,3 +38,12 @@ body {
 #changeView button:focus {
     color: blue;
 }
+
+h3 {
+    font-size: 100%;
+    margin-right: 5%;
+}
+
+#oneafterone p {
+    font-size: 75%;
+}

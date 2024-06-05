@@ -9,3 +9,9 @@
 
 4. Creo que la forma en la que lo he hecho es desorganizada y un poco caótica se puede hacer diferente??:
     - Respuesta
+
+5. Al hacer la pantalla pequeña, por ejemplo en iPhone 14 Pro Max (Que no es tan pequeña para ser un móvil) los botones de Create a new Post y el de al lado se quedan demasiado grandes.
+    - Respuesta
+
+6. Cuando haces la pantalla pequeña, los conteiners de las fotos quedan demaisado pequeños, quiero que cuando llegue un determinado tipo de pantalla se conviertan con container-fluid.
+    - Respuesta
