@@ -1,8 +1,8 @@
 1. Se puede hacer diferente sin el uso de JavaScript:
-    - Respuesta.
+    - En vez de hacer dos divs con diferente display, hacer uno que cambie entre displays con diferentes normas.
 
 2. Cuando utilizo la pseudoclase :focus consigo cambiar el color, pero si clico en cualquier otro sitio, me vuelve a cambiar el color a "deseleccionado":
-    - Respuesta.
+    - Puedes utilizar JS con onclick o utilizar <inpu type:"radyo">
 
 3. No se muy bien si el ancho del contenedor padre tiene que ocupar toda la pantalla o no:
     - Respuesta.
@@ -15,3 +15,5 @@
 
 6. Cuando haces la pantalla pequeña, los conteiners de las fotos quedan demaisado pequeños, quiero que cuando llegue un determinado tipo de pantalla se conviertan con container-fluid.
     - Respuesta
+
+Aplicar máximo de anchura.
