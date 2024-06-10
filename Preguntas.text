@@ -4,7 +4,7 @@
 
 2. Cuando utilizo la pseudoclase :focus consigo cambiar el color, pero si clico en cualquier otro sitio, me vuelve a cambiar el color a "deseleccionado":
     - Puedes utilizar JS con onclick o utilizar <inpu type:"radio">
-        - No se cómo hacerlo con el input.
+        - Hecho
 
 3. No se muy bien si el ancho del contenedor padre tiene que ocupar toda la pantalla o no:
     - Da un poco igual en realidad. Se podría utilizar un max width.

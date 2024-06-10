@@ -23,30 +23,16 @@ body {
 }
 
 
-.oneafterone {
+/* .oneafterone {
     display: none;
-}
+} */
 
-#changeView button {
-
-
-    background-color: white;
-    border: none;
-
-    /* appearance: none; */
-    /* transition: 0.3s all linear; Esto es para crear efecto de transición */
-}
-
-#changeView button:focus {
-    color: blue;
-}
 
 #changeView input[type="radio"] {
     display: none;
 }
 
 #changeView input[type="radio"]:checked+label {
-
     color: blue;
 }
 
